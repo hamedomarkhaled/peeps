@@ -197,7 +197,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   jbuilder (~> 2.7)
-  jsonapi-resources
+  jsonapi-resources (~> 0.10.2)
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)
